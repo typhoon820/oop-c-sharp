@@ -1,0 +1,3 @@
+Figures file
+I am a Yellow rectangle with angles at (1, 1), (5, 5)
+I am Pink circle of radius 2
